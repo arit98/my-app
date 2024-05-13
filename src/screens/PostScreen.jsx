@@ -16,7 +16,7 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
-import AddInvoice from "../screens/AddInvoice";
+import AddInvoice from "../screens/AddInvoice2";
 import { firebase } from "../utils/config";
 import { useNavigation } from "@react-navigation/native";
 
